@@ -2,4 +2,4 @@
 
 ---
 
-## Project we made at school and I spiced it up with HTML at home
+## Project we made at school and I spiced it up with HTML/CSS at home
