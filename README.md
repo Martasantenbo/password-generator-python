@@ -1,5 +1,11 @@
-<h1 align="center">Password generator in Python</h1>
+# Password generator in Python
 
----
+Project we made at school and I spiced it up with HTML/CSS at home
 
-<h2 align="center">Project we made at school and I spiced it up with HTML/CSS at home</h2>
+## Built with
+
+```
+Python 3
+HTML5
+CSS3
+```
