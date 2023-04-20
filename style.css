@@ -2,7 +2,7 @@ body {
   color: rgb(255, 212, 59);
   font-family: Arial, sans-serif;
   font-size: 26px;
-  background: rgb(62, 60, 62);
+  background-image: linear-gradient(to right, rgb(117, 112, 117), rgb(62, 60, 62));
   text-align: center;
 }
 
